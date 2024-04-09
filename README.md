@@ -1,2 +1,2 @@
 # F.Y.BCS-Advanced-C Programs
-Poimters||string||structure||File
+Pointers||string||structure||File
