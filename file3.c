@@ -1,3 +1,4 @@
+//copy the content of one fine to another
 #include<stdio.h>
 int main(int argc,char *argv[])
 {
