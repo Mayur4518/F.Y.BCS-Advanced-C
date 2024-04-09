@@ -1,3 +1,4 @@
+//create structure student of info(rno.name and per)and display.
 #include<stdio.h>
  struct stud
  {
